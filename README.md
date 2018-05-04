@@ -1,7 +1,7 @@
 # Kata Roman Numerals
 Descripción de la kata: http://codingdojo.org/kata/RomanNumerals/
 
-Slides: TBD
+Slides: https://speakerdeck.com/islomar/kata-de-numeros-romanos-y-tpp
 
 
 ## Objetivos
